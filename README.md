@@ -4,13 +4,15 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=MozerLins.MozerLins)
   
 </p>
-<div size='20px'>Meu Nome é : Caio Mozer. Print("Ola Mundo, seja bem vindo ao meu perfil do GITHUB")
+<div size='20px'>Meu Nome é : Caio Eduardo S.M Lins
+Print("Ola Mundo, seja bem vindo ao meu perfil do GITHUB")
 </div>
-  
 
-- 💻 Eu sou Analista de Sistemas Jr.
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+- 💻 Sou Analista de Sistemas Jr.
  
-- 👨‍🎓 Atualmente estou me formando em Engenharia De Controle e Automação 
+- 👨‍🎓 Me Graduando em Engenharia De Controle e Automação, estou no 7º Periodo  
  
 - 📍 Atualmente Moro em Ancheita, Rio de Janeiro, BR.
 
@@ -24,7 +26,6 @@
 <a href= "https://github.com/MozerLins?tab=repositories&q=&type=&language=git&sort= "> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
 <a href= "https://github.com/MozerLins?tab=repositories&q=&type=&language=github&sort= "> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
 <a href=" https://github.com/MozerLins?tab=repositories&q=&type=&language=github&sort= "> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/arduino.svg'> </a>
-
 
   <h2>Meu Status<img align ='center' src='https://media2.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '100px'></h2>
   <a href="https://github.com/MozerLins">
