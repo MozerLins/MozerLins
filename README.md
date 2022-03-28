@@ -1,11 +1,13 @@
 <h1> Olá, < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=MozerLins.MozerLins)
-  
+<p align='center'>
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=MozerLins.MozerLins)
 </p>
-<div size='20px'>Meu Nome é : Caio Eduardo S.M Lins
-Print("Ola Mundo, seja bem vindo ao meu perfil do GITHUB")
+
+<div size='20px'>
+  Print("Ola Mundo, seja bem vindo ao meu perfil do GITHUB")<br>
+  Meu Nome é Caio Eduardo S.M Lins<br>
+  Tenho 23 Anos
 </div>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
@@ -27,11 +29,11 @@ Print("Ola Mundo, seja bem vindo ao meu perfil do GITHUB")
 <a href= "https://github.com/MozerLins?tab=repositories&q=&type=&language=github&sort= "> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
 <a href=" https://github.com/MozerLins?tab=repositories&q=&type=&language=github&sort= "> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/arduino.svg'> </a>
 
-  <h2>Meu Status<img align ='center' src='https://media2.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '100px'></h2>
-  <a href="https://github.com/MozerLins">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MozerLins&layout=compact&langs_count=7&theme=dracula"/>
+<h2>Meu Status<img align ='center' src='https://media2.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '100px'></h2>
+<a href="https://github.com/MozerLins">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MozerLins&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MozerLins&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MozerLins&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
 <h2> Humor de programação para você<img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
