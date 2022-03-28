@@ -1,7 +1,9 @@
 <h1> Olá, < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 
 <p align='center'>
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=MozerLins.MozerLins)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=MozerLins.MozerLins)
+
 </p>
 
 <div size='20px'>
