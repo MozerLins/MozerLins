@@ -9,14 +9,14 @@
 <div size='20px'>
   Print("Ola Mundo, seja bem vindo ao meu perfil do GITHUB")<br>
   Meu Nome é Caio Eduardo S.M Lins<br>
-  Tenho 23 Anos
+  Tenho 24 Anos
 </div>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 💻 Sou Analista de Sistemas Jr.
  
-- 👨‍🎓 Me Graduando em Engenharia De Controle e Automação, estou no 7º Periodo  
+- 👨‍🎓 Me Graduando em Engenharia De Controle e Automação, estou no 10º Periodo  
  
 - 📍 Atualmente Moro em Ancheita, Rio de Janeiro, BR.
 
