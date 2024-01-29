@@ -2,7 +2,7 @@
 
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=MozerLins.MozerLins)
+![visitors](https://komarev.com/ghpvc/?username=MozerLins)
 
 </p>
 
@@ -14,11 +14,11 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 💻 Sou Analista de Sistemas Jr.
+- 💻 Sou Analista de Sistemas Pleno.
  
-- 👨‍🎓 Me Graduando em Engenharia De Controle e Automação, estou no 10º Periodo  
+- 👨‍🎓 Graduado Em Engenharia De Controle e Automação. 
  
-- 📍 Atualmente Moro em Ancheita, Rio de Janeiro, BR.
+- 📍 Atualmente Moro Balneario Camboriu, Santa Catarina, BR.
 
 <h2> Habilidades <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
